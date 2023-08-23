@@ -1,5 +1,5 @@
-<h1 align="center">➡ Hi there! I'm Arrington Mata 👋</h1>
-<h3 align="center">I'm a Full-Stack developer and here are all my projects! I am actively learning and growing my programming knowledge.</h3>
+<h1 align="center">Hi there! I'm Arrington Mata <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋"></h1>
+<h3 align="center">I'm a Full-Stack developer and here are all my projects! I am actively learning and growing my programming knowledge and I'm currently a student at Codeworks!</h3>
 
 - 🔭 I’m currently working on **Codeworks Final! ⛈**
 
