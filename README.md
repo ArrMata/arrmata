@@ -23,8 +23,8 @@
 
 <style>
   .custom-wave {
-    width: 3rem;
-    height: 3rem;
+    width: 40px;
+    height: 40px;
   }
 </style>
 
