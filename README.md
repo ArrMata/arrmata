@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Arrington Mata <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋"></h1>
+<h1 align="center">Hi there! I'm Arrington Mata <img class="custom-wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋"></h1>
 <h3 align="center">I'm a Full-Stack developer and here are all my projects! I am actively learning and growing my programming knowledge and I'm currently a student at Codeworks!</h3>
 
 - 🔭 I’m currently working on **Codeworks Final! ⛈**
@@ -20,4 +20,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arrmata&show_icons=true&theme=dark&locale=en" alt="arrmata" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrmata&theme=dark" alt="arrmata" /></p>
+
+<style>
+  .custom-wave {
+    width: 3rem;
+    height: 3rem;
+  }
+</style>
 
