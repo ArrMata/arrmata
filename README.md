@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Arrington Mata <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋" width="40px"></h1>
-<h3 align="center">I'm a Full-Stack developer and here are all my projects! I am actively learning and growing my programming knowledge and I'm currently a student at Codeworks!</h3>
+<h3 align="center">I'm a Full-Stack developer and here are all my projects! I am actively learning and growing my programming knowledge and I'm currently a student at WGU pursuing a Software Engineering Degree!</h3>
 
-- 🔭 I’m currently working on **Personal React Project! 🔵**
+- 🔭 I’m currently working on **WGU Degree 🔵**
 
 - 🌱 I’m currently learning **Auth0 React Integration + Redux Library**
 
