@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **WGU Degree 🔵**
 
-- 🌱 I’m currently learning **Auth0 React Integration + Redux Library**
+- 🌱 I’m currently learning **Unreal Engine**
 
 - 📧 Contact me here! **mataarrington@gmail.com**
 
